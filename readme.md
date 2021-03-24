@@ -6,6 +6,12 @@
 	<br>
 </div>
 
+## HTML5 Rundown
+
+Here is a list of all HTML5 tags to demonstrate how GitHub renders them. Observe not all tags are meaningful;
+for example, `<br>` is demoed as `<br>...</br>`, but there's no `</br>` in HTML5; also, a `<table>` tag is
+only meaningful with table rows `<tr>` and cells `<td>`, and, in turn, cells and rows are not meaningful
+outside a `<table>` tag.
 
 * **`<a>`**—<a>Defines a hyperlink.</a>
 * **`<abbr>`**—<abbr>Defines an abbreviated form of a longer word or phrase.</abbr>
