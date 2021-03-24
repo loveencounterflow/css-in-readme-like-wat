@@ -110,26 +110,26 @@
 * **`<span>`**—<span>Defines an inline styleless section in a document.</span>
 * **`<strike>`**—<strike>Obsolete Displays text in strikethrough style.</strike>
 * **`<strong>`**—<strong>Indicate strongly emphasized text.</strong>
-* **`<style>`**—<style>Inserts style information (commonly CSS) into the head of a document.</style>style>
-* **`<sub>`**—<sub>Defines subscripted text.</style>sub>
-* **`<summary>`**—<summary>Defines a summary for the `details` element.</style>summary>
-* **`<sup>`**—<sup>Defines superscripted text.</style>sup>
-* **`<svg>`**—<svg>Embed SVG (Scalable Vector Graphics) content in an HTML document.</style>svg>
-* **`<table>`**—<table>Defines a data table.</style>table>
-* **`<tbody>`**—<tbody>Groups a set of rows defining the main body of the table data.</style>tbody>
-* **`<td>`**—<td>Defines a cell in a table.</style>td>
-* **`<template>`**—<template>Defines the fragments of HTML that should be hidden when the page is loaded, but can be cloned and inserted in the document by JavaScript.</style>template>
-* **`<textarea>`**—<textarea>Defines a multi-line text input control (text area).</style>textarea>
-* **`<tfoot>`**—<tfoot>Groups a set of rows summarizing the columns of the table.</style>tfoot>
-* **`<th>`**—<th>Defines a header cell in a table.</style>th>
-* **`<thead>`**—<thead>Groups a set of rows that describes the column labels of a table.</style>thead>
-* **`<time>`**—<time>Represents a time and/or date.</style>time>
-* **`<title>`**—<title>Defines a title for the document.</style>title>
-* **`<tr>`**—<tr>Defines a row of cells in a table.</style>tr>
-* **`<track>`**—<track>Defines text tracks for the media elements like `audio` or `video`.</style>track>
-* **`<tt>`**—<tt>Obsolete Displays text in a teletype style.</style>tt>
-* **`<u>`**—<u>Displays text with an underline.</style>u>
-* **`<ul>`**—<ul>Defines an unordered list.</style>ul>
-* **`<var>`**—<var>Defines a variable.</style>var>
-* **`<video>`**—<video>Embeds video content in an HTML document.</style>video>
-* **`<wbr>`**—<wbr>Represents a line break opportunity.</style>wbr>
+* **`<style>`**—<style>Inserts style information (commonly CSS) into the head of a document.</style>
+* **`<sub>`**—<sub>Defines subscripted text.</sub>
+* **`<summary>`**—<summary>Defines a summary for the `details` element.</summary>
+* **`<sup>`**—<sup>Defines superscripted text.</sup>
+* **`<svg>`**—<svg>Embed SVG (Scalable Vector Graphics) content in an HTML document.</svg>
+* **`<table>`**—<table>Defines a data table.</table>
+* **`<tbody>`**—<tbody>Groups a set of rows defining the main body of the table data.</tbody>
+* **`<td>`**—<td>Defines a cell in a table.</td>
+* **`<template>`**—<template>Defines the fragments of HTML that should be hidden when the page is loaded, but can be cloned and inserted in the document by JavaScript.</template>
+* **`<textarea>`**—<textarea>Defines a multi-line text input control (text area).</textarea>
+* **`<tfoot>`**—<tfoot>Groups a set of rows summarizing the columns of the table.</tfoot>
+* **`<th>`**—<th>Defines a header cell in a table.</th>
+* **`<thead>`**—<thead>Groups a set of rows that describes the column labels of a table.</thead>
+* **`<time>`**—<time>Represents a time and/or date.</time>
+* **`<title>`**—<title>Defines a title for the document.</title>
+* **`<tr>`**—<tr>Defines a row of cells in a table.</tr>
+* **`<track>`**—<track>Defines text tracks for the media elements like `audio` or `video`.</track>
+* **`<tt>`**—<tt>Obsolete Displays text in a teletype style.</tt>
+* **`<u>`**—<u>Displays text with an underline.</u>
+* **`<ul>`**—<ul>Defines an unordered list.</ul>
+* **`<var>`**—<var>Defines a variable.</var>
+* **`<video>`**—<video>Embeds video content in an HTML document.</video>
+* **`<wbr>`**—<wbr>Represents a line break opportunity.</wbr>
